@@ -1,4 +1,4 @@
 *~
 '''
 
-This is a rule that tells the Git to ignore and exclude any files ending with '~'.
+This is a rule which tells the Git to ignore and exclude any files ending with '~'.
